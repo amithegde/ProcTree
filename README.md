@@ -1,2 +1,11 @@
 # ProcTree
-Displays process tree on the console.
+
+Displays process tree of a process on the console.
+
+## Usage
+
+`ProcTree <processName>`
+
+E.g.: `ProcTree services`
+
+![alt text](snap.png)
